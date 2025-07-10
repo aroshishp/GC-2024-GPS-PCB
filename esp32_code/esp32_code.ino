@@ -33,10 +33,7 @@
 // #define WIFI_PASSWORD "1234567890"
 
 // Insert Firebase project API Key
-// #define API_KEY "AIzaSyB8Mcs2ovwsid9nIzTKozB_Hl0CVzBvnv8" //og
-#define API_KEY "AIzaSyAjNNHkKbmqwE2tJPHJ3MkCaUYEe5VLbgA" //venky
-// #define API_KEY "AIzaSyDWfGkEepByUsbDf2FBf98J9u2mBwSeDpQ" //avyaaz
-// #define API_KEY "AIzaSyAdLZ237Vgt0i0D_ZjqYRpjmigrMeIzBwI" //2k25
+
 
 
 // #define FIRESTORE_PROJECT_ID "gpsapp-ef676" //avyaaz
